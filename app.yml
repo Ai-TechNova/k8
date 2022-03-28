@@ -28,6 +28,6 @@ spec:
     spec:
       containers:
       - name: ecomm
-        image: ravi2krishna/webapp
+        image: akiranreddy/ecomm
         ports:
         - containerPort: 80
